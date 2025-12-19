@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Said Masebu
 
-<!--
-**saidmasebu/saidmasebu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐍 Python Developer | Computer Science Student
 
-Here are some ideas to get you started:
+I am a Python developer passionate about building practical applications
+and solving real-world problems using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- Python
+- SQL / PostgreSQL
+- Git & GitHub
+- Problem Solving
+
+---
+
+## 📂 Projects
+### 📌 Student Management System
+- Python & PostgreSQL
+- CRUD operations
+- Console-based application
+
+### 📌 Guess the Number Game
+- Python
+- Random module
+
+---
+
+## 🎯 Currently Learning
+- Flask
+- Database design
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/saidmasebu
+
+
